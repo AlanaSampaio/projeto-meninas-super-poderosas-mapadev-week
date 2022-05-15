@@ -1,0 +1,14 @@
+/*Serve para tirar as configurações padrão que vem no projeto, facilitando a inserção de novos valores*/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}

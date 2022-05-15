@@ -1,0 +1,21 @@
+/*Definindo as variaveis de*/
+
+:root {
+    --cor-vermelha-principal: #D60223;
+    --cor-vermelha-media: #f89284;
+    --cor-vermelha-fraca: #ffbebe;
+
+    --cor-marrom-fraco: #ebd5d2;
+
+    --cor-rosa-principal: #ee00ff;
+    --cor-rosa-media: #fbd3ff;
+    --cor-rosa-fraca: #c58ff8;
+
+    --cor-roxa-fraca: #c2c2f1;
+
+    --cor-titulo-fraco: #faefd8;
+    --cor-titulo-forte: green;
+
+    --cor-padrao: #ffffff;
+    --cor-secundaria: #000000;
+}
